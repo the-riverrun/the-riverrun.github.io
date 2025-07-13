@@ -50,3 +50,4 @@ ul.fn-list { list-style: none; padding: 2em 0 0; margin-top: 2.5em; font-size: .
 .tags { margin-top: 2.5em; padding-top: 1.5em; font-size: .9em; border-top: 2px solid #EEE; }
 header { text-transform: uppercase; }
 header a { text-decoration: none; color: inherit; }
+.center { display: block; margin-left: auto; margin-right: auto; }

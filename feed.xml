@@ -6,6 +6,12 @@
   <description></description>
 
 	<item>
+	<title>A key to the Kingdom</title>
+  <link>http://localhost:8001/post/thekey.html</link>
+	<description></description>
+	<pubDate>Sat, 12 Jul 2025 00:00:00 -0400</pubDate>
+</item>
+<item>
 	<title>Sites</title>
   <link>http://localhost:8001/post/recommended.html</link>
 	<description></description>
